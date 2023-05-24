@@ -1,0 +1,21 @@
+p::first-letter {
+  color: #c69c6d;
+  float: left;
+  font-size: 4em;
+  margin: 0 .2em 0 0;
+}
+
+p{
+  text-align: justify;
+}
+
+.imgapre{
+  float:left;
+  width: 300px;
+  height: 300px;
+}
+
+.afst{
+  display:inline;
+  margin-right: 10px;
+}
